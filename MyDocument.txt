@@ -1,0 +1,2 @@
+John enjoies taking longg walks on the beach and drinking gatorade
+This program is quite scalable do to the use of loops
